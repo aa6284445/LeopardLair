@@ -1,2 +1,2 @@
 #this is a comment
-a=1
+a,b=1,2
